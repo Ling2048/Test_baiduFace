@@ -3,3 +3,12 @@
 ################################################################################
 
 /.vs/Test_baiduFace/v15
+/packages
+/Test_baiduFace/bin/Debug/Test_baiduFace.pdb
+/Test_baiduFace/bin/Debug/Test_baiduFace.exe.config
+/Test_baiduFace/bin/Debug/Test_baiduFace.exe
+/Test_baiduFace/bin/Debug/Newtonsoft.Json.xml
+/Test_baiduFace/bin/Debug/Newtonsoft.Json.dll
+/Test_baiduFace/bin/Debug/AipSdk.xml
+/Test_baiduFace/bin/Debug/AipSdk.dll
+/Test_baiduFace/obj/Debug
